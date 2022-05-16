@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "OOP4"
+			"path" : "OOP_Task4"
 		}
 	],
 	"backtrace" : 1,
@@ -52,7 +52,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/Users/talmekler/Desktop/OOP4/."
+					"path" : "/Users/talmekler/Documents/GitHub/OOP_Task4/."
 				}
 			],
 			"language" : "CXX",
@@ -76,7 +76,7 @@
 			]
 		}
 	],
-	"id" : "OOP4::@6890427a1f51a3e7e1df",
+	"id" : "OOP_Task4::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -92,8 +92,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "OOP4",
-	"nameOnDisk" : "OOP4",
+	"name" : "OOP_Task4",
+	"nameOnDisk" : "OOP_Task4",
 	"paths" : 
 	{
 		"build" : ".",

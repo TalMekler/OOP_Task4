@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(OOP4
+add_executable(OOP_Task4
         Point.cpp
         allShapes.h
         Square.h

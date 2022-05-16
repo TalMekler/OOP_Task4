@@ -39,87 +39,87 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/talmekler/Desktop/OOP4/cmake-build-debug/
+cmake_ninja_workdir = /Users/talmekler/Documents/GitHub/OOP_Task4/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target OOP4
+# Object build statements for EXECUTABLE target OOP_Task4
 
 
 #############################################
-# Order-only phony target for OOP4
+# Order-only phony target for OOP_Task4
 
-build cmake_object_order_depends_target_OOP4: phony || CMakeFiles/OOP4.dir
+build cmake_object_order_depends_target_OOP_Task4: phony || CMakeFiles/OOP_Task4.dir
 
-build CMakeFiles/OOP4.dir/Point.cpp.o: CXX_COMPILER__OOP4_Debug /Users/talmekler/Desktop/OOP4/Point.cpp || cmake_object_order_depends_target_OOP4
-  DEP_FILE = CMakeFiles/OOP4.dir/Point.cpp.o.d
+build CMakeFiles/OOP_Task4.dir/Point.cpp.o: CXX_COMPILER__OOP_Task4_Debug /Users/talmekler/Documents/GitHub/OOP_Task4/Point.cpp || cmake_object_order_depends_target_OOP_Task4
+  DEP_FILE = CMakeFiles/OOP_Task4.dir/Point.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  INCLUDES = -I/Users/talmekler/Desktop/OOP4/.
-  OBJECT_DIR = CMakeFiles/OOP4.dir
-  OBJECT_FILE_DIR = CMakeFiles/OOP4.dir
+  INCLUDES = -I/Users/talmekler/Documents/GitHub/OOP_Task4/.
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles/OOP_Task4.dir
 
-build CMakeFiles/OOP4.dir/allShapes.cpp.o: CXX_COMPILER__OOP4_Debug /Users/talmekler/Desktop/OOP4/allShapes.cpp || cmake_object_order_depends_target_OOP4
-  DEP_FILE = CMakeFiles/OOP4.dir/allShapes.cpp.o.d
+build CMakeFiles/OOP_Task4.dir/allShapes.cpp.o: CXX_COMPILER__OOP_Task4_Debug /Users/talmekler/Documents/GitHub/OOP_Task4/allShapes.cpp || cmake_object_order_depends_target_OOP_Task4
+  DEP_FILE = CMakeFiles/OOP_Task4.dir/allShapes.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  INCLUDES = -I/Users/talmekler/Desktop/OOP4/.
-  OBJECT_DIR = CMakeFiles/OOP4.dir
-  OBJECT_FILE_DIR = CMakeFiles/OOP4.dir
+  INCLUDES = -I/Users/talmekler/Documents/GitHub/OOP_Task4/.
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles/OOP_Task4.dir
 
-build CMakeFiles/OOP4.dir/Square.cpp.o: CXX_COMPILER__OOP4_Debug /Users/talmekler/Desktop/OOP4/Square.cpp || cmake_object_order_depends_target_OOP4
-  DEP_FILE = CMakeFiles/OOP4.dir/Square.cpp.o.d
+build CMakeFiles/OOP_Task4.dir/Square.cpp.o: CXX_COMPILER__OOP_Task4_Debug /Users/talmekler/Documents/GitHub/OOP_Task4/Square.cpp || cmake_object_order_depends_target_OOP_Task4
+  DEP_FILE = CMakeFiles/OOP_Task4.dir/Square.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  INCLUDES = -I/Users/talmekler/Desktop/OOP4/.
-  OBJECT_DIR = CMakeFiles/OOP4.dir
-  OBJECT_FILE_DIR = CMakeFiles/OOP4.dir
+  INCLUDES = -I/Users/talmekler/Documents/GitHub/OOP_Task4/.
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles/OOP_Task4.dir
 
-build CMakeFiles/OOP4.dir/Shape.cpp.o: CXX_COMPILER__OOP4_Debug /Users/talmekler/Desktop/OOP4/Shape.cpp || cmake_object_order_depends_target_OOP4
-  DEP_FILE = CMakeFiles/OOP4.dir/Shape.cpp.o.d
+build CMakeFiles/OOP_Task4.dir/Shape.cpp.o: CXX_COMPILER__OOP_Task4_Debug /Users/talmekler/Documents/GitHub/OOP_Task4/Shape.cpp || cmake_object_order_depends_target_OOP_Task4
+  DEP_FILE = CMakeFiles/OOP_Task4.dir/Shape.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  INCLUDES = -I/Users/talmekler/Desktop/OOP4/.
-  OBJECT_DIR = CMakeFiles/OOP4.dir
-  OBJECT_FILE_DIR = CMakeFiles/OOP4.dir
+  INCLUDES = -I/Users/talmekler/Documents/GitHub/OOP_Task4/.
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles/OOP_Task4.dir
 
-build CMakeFiles/OOP4.dir/Circle.cpp.o: CXX_COMPILER__OOP4_Debug /Users/talmekler/Desktop/OOP4/Circle.cpp || cmake_object_order_depends_target_OOP4
-  DEP_FILE = CMakeFiles/OOP4.dir/Circle.cpp.o.d
+build CMakeFiles/OOP_Task4.dir/Circle.cpp.o: CXX_COMPILER__OOP_Task4_Debug /Users/talmekler/Documents/GitHub/OOP_Task4/Circle.cpp || cmake_object_order_depends_target_OOP_Task4
+  DEP_FILE = CMakeFiles/OOP_Task4.dir/Circle.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  INCLUDES = -I/Users/talmekler/Desktop/OOP4/.
-  OBJECT_DIR = CMakeFiles/OOP4.dir
-  OBJECT_FILE_DIR = CMakeFiles/OOP4.dir
+  INCLUDES = -I/Users/talmekler/Documents/GitHub/OOP_Task4/.
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles/OOP_Task4.dir
 
-build CMakeFiles/OOP4.dir/Quad.cpp.o: CXX_COMPILER__OOP4_Debug /Users/talmekler/Desktop/OOP4/Quad.cpp || cmake_object_order_depends_target_OOP4
-  DEP_FILE = CMakeFiles/OOP4.dir/Quad.cpp.o.d
+build CMakeFiles/OOP_Task4.dir/Quad.cpp.o: CXX_COMPILER__OOP_Task4_Debug /Users/talmekler/Documents/GitHub/OOP_Task4/Quad.cpp || cmake_object_order_depends_target_OOP_Task4
+  DEP_FILE = CMakeFiles/OOP_Task4.dir/Quad.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  INCLUDES = -I/Users/talmekler/Desktop/OOP4/.
-  OBJECT_DIR = CMakeFiles/OOP4.dir
-  OBJECT_FILE_DIR = CMakeFiles/OOP4.dir
+  INCLUDES = -I/Users/talmekler/Documents/GitHub/OOP_Task4/.
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles/OOP_Task4.dir
 
-build CMakeFiles/OOP4.dir/MainTrain.cpp.o: CXX_COMPILER__OOP4_Debug /Users/talmekler/Desktop/OOP4/MainTrain.cpp || cmake_object_order_depends_target_OOP4
-  DEP_FILE = CMakeFiles/OOP4.dir/MainTrain.cpp.o.d
+build CMakeFiles/OOP_Task4.dir/MainTrain.cpp.o: CXX_COMPILER__OOP_Task4_Debug /Users/talmekler/Documents/GitHub/OOP_Task4/MainTrain.cpp || cmake_object_order_depends_target_OOP_Task4
+  DEP_FILE = CMakeFiles/OOP_Task4.dir/MainTrain.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14
-  INCLUDES = -I/Users/talmekler/Desktop/OOP4/.
-  OBJECT_DIR = CMakeFiles/OOP4.dir
-  OBJECT_FILE_DIR = CMakeFiles/OOP4.dir
+  INCLUDES = -I/Users/talmekler/Documents/GitHub/OOP_Task4/.
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
+  OBJECT_FILE_DIR = CMakeFiles/OOP_Task4.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target OOP4
+# Link build statements for EXECUTABLE target OOP_Task4
 
 
 #############################################
-# Link the executable OOP4
+# Link the executable OOP_Task4
 
-build OOP4: CXX_EXECUTABLE_LINKER__OOP4_Debug CMakeFiles/OOP4.dir/Point.cpp.o CMakeFiles/OOP4.dir/allShapes.cpp.o CMakeFiles/OOP4.dir/Square.cpp.o CMakeFiles/OOP4.dir/Shape.cpp.o CMakeFiles/OOP4.dir/Circle.cpp.o CMakeFiles/OOP4.dir/Quad.cpp.o CMakeFiles/OOP4.dir/MainTrain.cpp.o
+build OOP_Task4: CXX_EXECUTABLE_LINKER__OOP_Task4_Debug CMakeFiles/OOP_Task4.dir/Point.cpp.o CMakeFiles/OOP_Task4.dir/allShapes.cpp.o CMakeFiles/OOP_Task4.dir/Square.cpp.o CMakeFiles/OOP_Task4.dir/Shape.cpp.o CMakeFiles/OOP_Task4.dir/Circle.cpp.o CMakeFiles/OOP_Task4.dir/Quad.cpp.o CMakeFiles/OOP_Task4.dir/MainTrain.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  OBJECT_DIR = CMakeFiles/OOP4.dir
+  OBJECT_DIR = CMakeFiles/OOP_Task4.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = OOP4
-  TARGET_PDB = OOP4.dbg
+  TARGET_FILE = OOP_Task4
+  TARGET_PDB = OOP_Task4.dbg
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/talmekler/Desktop/OOP4/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/talmekler/Documents/GitHub/OOP_Task4/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -130,7 +130,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/talmekler/Desktop/OOP4/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/talmekler/Desktop/OOP4 -B/Users/talmekler/Desktop/OOP4/cmake-build-debug
+  COMMAND = cd /Users/talmekler/Documents/GitHub/OOP_Task4/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/talmekler/Documents/GitHub/OOP_Task4 -B/Users/talmekler/Documents/GitHub/OOP_Task4/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -146,9 +146,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/talmekler/Desktop/OOP4/cmake-build-debug
+# Folder: /Users/talmekler/Documents/GitHub/OOP_Task4/cmake-build-debug
 
-build all: phony OOP4
+build all: phony OOP_Task4
 
 # =============================================================================
 # Built-in targets

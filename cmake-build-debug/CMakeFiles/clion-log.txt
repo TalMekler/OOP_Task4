@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/talmekler/Desktop/OOP4 -B /Users/talmekler/Desktop/OOP4/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/talmekler/Documents/GitHub/OOP_Task4 -B /Users/talmekler/Documents/GitHub/OOP_Task4/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/talmekler/Desktop/OOP4/cmake-build-debug
+-- Build files have been written to: /Users/talmekler/Documents/GitHub/OOP_Task4/cmake-build-debug
