@@ -40,6 +40,14 @@ void allShapes::addShape(Shape *newShape) {
     else if(ci)
         tmp[m_size] = new Circle(*ci);
 
+//    if (typeid(newShape) == typeid(Square))
+//        tmp[m_size] = new Square(*(dynamic_cast<Square*>(newShape)));
+//    else if (typeid(newShape) == typeid(Quad))
+//        tmp[m_size] = new Quad(*(dynamic_cast<Quad*>(newShape)));
+//    else if (typeid(newShape) == typeid(Circle))
+//        tmp[m_size] = new Circle(*(dynamic_cast<Circle*>(newShape)));
+
+
     m_arr = tmp;
     m_size++;
 }
